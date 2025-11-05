@@ -29,4 +29,4 @@ Microsoft Excel, VBA, Power Query, Google Sheets IntegrationBody Composition &am
 4. The script triggers an automated email to the client with their personalized health summary.
 
 ## Author
-## Akshar Patel
+Akshar Patel
