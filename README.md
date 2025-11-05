@@ -1,5 +1,8 @@
 # 🧮 Excel-Automation-Nutrition-Analysis-Dashboard
 
+<img width="260" height="192" alt="image" src="https://github.com/user-attachments/assets/41f54da1-5aba-49d7-bbf8-d82fc91a9758" />
+
+
 ## Overview: 
 This project is an automated Excel-based health and nutrition dashboard designed to calculate BMI, BMR, and macro–micronutrient breakdown. It integrates VBA scripting, Power Query, and Google Sheets to enable real-time data synchronization and automated send notification.
 
