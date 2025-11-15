@@ -7,7 +7,7 @@
 This project is an automated Excel-based health and nutrition dashboard designed to calculate BMI, BMR, and macro–micronutrient breakdown. It integrates VBA scripting, Power Query, and Google Sheets to enable real-time data synchronization and automated send notification.
 
 ## Tools Used: 
-Microsoft Excel, VBA, Power Query, Google Sheets IntegrationBody Composition &amp; Nutrition Analysis Dashboard
+Microsoft Excel, VBA, Power Query, Google Sheets IntegrationBody Composition &amp; Nutrition Analysis Report
 
 ## Key Features
 
